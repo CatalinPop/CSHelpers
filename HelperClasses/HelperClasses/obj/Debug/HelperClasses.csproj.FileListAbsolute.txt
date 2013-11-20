@@ -1,0 +1,8 @@
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Debug\HelperClasses.dll
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Debug\HelperClasses.pdb
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\obj\Debug\HelperClasses.dll
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\obj\Debug\HelperClasses.pdb
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Debug\Abt.Controls.SciChart.Wpf.dll
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Debug\Abt.Controls.SciChart.Wpf.pdb
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Debug\Abt.Controls.SciChart.Wpf.xml
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\obj\Debug\HelperClasses.csprojResolveAssemblyReference.cache

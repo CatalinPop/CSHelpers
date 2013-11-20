@@ -1,0 +1,7 @@
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Release\HelperClasses.dll
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Release\HelperClasses.pdb
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\obj\Release\HelperClasses.dll
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\obj\Release\HelperClasses.pdb
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Release\Abt.Controls.SciChart.Wpf.dll
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Release\Abt.Controls.SciChart.Wpf.pdb
+E:\PROIECTE\C# Helpers\HelperClasses\HelperClasses\bin\Release\Abt.Controls.SciChart.Wpf.xml

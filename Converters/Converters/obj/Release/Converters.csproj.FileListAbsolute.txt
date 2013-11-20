@@ -1,0 +1,4 @@
+E:\PROIECTE\C# Helpers\Converters\Converters\bin\Release\Converters.dll
+E:\PROIECTE\C# Helpers\Converters\Converters\bin\Release\Converters.pdb
+E:\PROIECTE\C# Helpers\Converters\Converters\obj\Release\Converters.dll
+E:\PROIECTE\C# Helpers\Converters\Converters\obj\Release\Converters.pdb
